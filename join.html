@@ -11,27 +11,77 @@
 </head>
 <body>
     <header>
-        <a href="index.html" id="logo-image-link">
-            <img src="assets/images/logo-image.jpg" alt="Top-down view of drone vector image" id="logo-image">
-        </a>
-        <h2>West Wales Drone Club</h2>
-        <nav>
-            <ul>
-                <li>
-                    <a href="index.html">Home</a>
-                </li>
-                <li>
-                    <a href="events.html">Events</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-                <li>
-                    <a href="join.html" class="active">Join</a>
-                </li>
-            </ul>
-        </nav>
+        <div class="container-fluid g-0">
+            <div class="row g-0">
+                <div class="col-md-12 col-lg-6 header-left">
+                    <a href="index.html" id="logo-image-link">
+                        <img src="assets/images/logo-image.jpg" alt="Top-down view of drone vector image" id="logo-image">
+                    </a>
+                    <h2>West Wales Drone Club</h2>
+                </div>
+                <div class="col-md-12 col-lg-6 header-right">
+                    <nav>
+                        <ul>
+                            <li>
+                                <a href="index.html">Home</a>
+                            </li>
+                            <li>
+                                <a href="events.html">Events</a>
+                            </li>
+                            <li>
+                                <a href="gallery.html">Gallery</a>
+                            </li>
+                            <li>
+                                <a href="join.html" class="active">Join</a>
+                            </li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
     </header>
+    <section id="join">
+        <div class="container-fluid g-0">
+            <div class="container-fluid g-0 join-background-image">
+                <div class="page-spacing-join"></div>
+                <h3>Fly with us!</h3>
+                <form action="#" method="POST">
+                    <div class="row g-0">
+                        <div class="col join-left">
+                            <label for="fname">First Name:</label>
+                        </div>
+                        <div class="col join-right">
+                            <input type="text" id="fname" name="fname" placeholder="Your first name">
+                        </div>
+                    </div>
+                    <div class="row g-0">
+                        <div class="col join-left">
+                            <label for="lname">Last Name:</label>
+                        </div>
+                        <div class="col join-right">
+                            <input type="text" id="lname" name="lname" placeholder="Your last name">
+                        </div>
+                    </div>
+                    <div class="row g-0">
+                        <div class="col join-left">
+                            <label for="email">Email Address:</label>
+                        </div>
+                        <div class="col join-right">
+                            <input type="email" id="email" name="email" placeholder="Your email">
+                        </div>
+                    </div>
+                    <div class="page-spacing-join-middle"></div>
+                    <div class="row g-0">
+                        <div class="col">
+                            <button class="btn btn-secondary btn-secondary-bg-color" type="reset">Clear</button>
+                            <button class="btn btn-secondary btn-secondary-bg-color" type="submit" id="submit-button">Sign Up</button>
+                        </div>
+                    </div>
+                </form>
+                <div class="page-spacing-join-bottom"></div>
+            </div>
+        </div>
+    </section>
     <footer>
         <ul>
             <li>
