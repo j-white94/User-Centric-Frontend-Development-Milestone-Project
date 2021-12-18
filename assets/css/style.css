@@ -132,6 +132,13 @@ nav a:hover, .active {
     background-color: #C30F16;
 }
 
+/* ---------------------------- Gallery */
+
+#gallery img {
+    width: 100%;
+    height: auto;
+}
+
 /* ---------------------------- Footer */
 
 footer {
