@@ -68,6 +68,7 @@ nav a:hover, .active {
 .about h3 {
     border-bottom: 1px solid #333333;
     width: auto;
+    margin-top: 20px;
 }
 
 .about p {
@@ -80,6 +81,22 @@ nav a:hover, .active {
 
 .btn-secondary-bg-color {
     background-color: #333333;
+}
+
+.about p {
+    font-size: 20px;
+}
+
+.who-txt {
+    text-align: right;
+}
+
+.what-txt {
+    text-align: left;
+}
+
+.why-txt {
+    text-align: right;
 }
 
 /* ---------------------------- Events */
@@ -243,6 +260,13 @@ footer a:hover {
     margin: 4px;
 }
 
+#wales-img {
+    height: 150px;
+    width: 150px;
+    border: 1px solid #333333;
+    border-radius: 50%;
+}
+
 .drone-images {
     width: 100%;
     height: auto;
@@ -255,6 +279,10 @@ footer a:hover {
 
 .center-image {
     text-align: center;
+}
+
+.about-img {
+    margin-bottom: 20px;
 }
 
 /* ---------------------------- Media Queries */
@@ -296,8 +324,8 @@ footer a:hover {
         text-align: center;
     }
 
-    .about p {
-        margin-bottom: 0;
+    .who-txt, .what-txt, .why-txt {
+        text-align: center;
     }
 
     #page-spacing-top, #page-spacing-middle {
