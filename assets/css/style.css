@@ -108,8 +108,8 @@ nav a:hover, .active {
 
 #events h3 {
     margin-top: 20px;
-    margin-bottom: 1px;
-    color: #333333;
+    margin-bottom: 0px;
+    font-size: 30px;
 }
 
 #events h4 {
@@ -125,7 +125,6 @@ nav a:hover, .active {
 }
 
 .events-page-title-container {
-    color: #333333;
     font-size: 22px;
     margin-top: 0;
 }
