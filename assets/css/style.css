@@ -14,7 +14,7 @@ header {
     border-bottom: 2px solid #333333;
 }
 
-#logo-image-link {
+#logo-img-link {
     display: inline-block;
 }
 
@@ -138,8 +138,8 @@ nav a:hover, .active {
     margin-top: 1rem;
 }
 
-.events-background-image-container {
-    background-image: url("../images/events-background-image.jpg");
+.events-background-img-container {
+    background-image: url("../images/events-background-img.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -174,7 +174,7 @@ nav a:hover, .active {
 
 /* ---------------------------- Join */
 
-.join-background-image {
+.join-background-img {
     background-image: url("../images/join-img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -278,7 +278,7 @@ footer a:hover {
 
 /* ---------------------------- Images */
 
-#logo-image {
+#logo-img {
     height: 55px;
     width: 55px;
     margin: 4px;
@@ -321,7 +321,7 @@ footer a:hover {
         font-size: 35px;
     }
 
-    #logo-image {
+    #logo-img {
         height: 40px;
         width: 40px;
     }
@@ -348,7 +348,7 @@ footer a:hover {
         line-height: 85px;
     }
 
-    #logo-image {
+    #logo-img {
         margin-left: 0;
     }
 
@@ -409,7 +409,7 @@ footer a:hover {
         font-size: 22px;
     }
 
-    #logo-image {
+    #logo-img {
         height: 26px;
         width: 26px;
     }
