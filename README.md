@@ -176,7 +176,7 @@ The official [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Vali
         16. [gallery-img-10.jpg](https://j-white94.github.io/User-Centric-Frontend-Development-Milestone-Project/assets/images/gallery-img-10.jpg) was sourced from https://pixabay.com/photos/ginkgo-fog-drone-landscape-3758236/
         17. [gallery-img-11.jpg](https://j-white94.github.io/User-Centric-Frontend-Development-Milestone-Project/assets/images/gallery-img-11.jpg) was sourced from https://pixabay.com/photos/drone-park-flying-camera-propeller-3181111/
         18. [gallery-img-12.jpg](https://j-white94.github.io/User-Centric-Frontend-Development-Milestone-Project/assets/images/gallery-img-12.jpg) was sourced from https://pixabay.com/photos/drone-camera-drone-aircraft-device-6586331/
-        19. [join-img.jpg](https://j-white94.github.io/User-Centric-Frontend-Development-Milestone-Project/assets/images/join-img.jpg) was sourced from https://pixabay.com/photos/drone-man-drone-pilot-copter-3453361/
+        19. [join-img.jpg](https://j-white94.github.io/User-Centric-Frontend-Development-Milestone-Project/assets/images/join-img.jpg) was sourced from https://pixabay.com/photos/drone-man-drone-pilot-copter-3453361/ and cropped
 
 - ### Acknowledgements
     - The Code Institute Full Stack Web Development course for teaching me HTML and CSS
