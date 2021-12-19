@@ -5,6 +5,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6, p, span, a, input {
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* ---------------------------- Header/Nav */
 
 header {
@@ -23,6 +27,7 @@ header h2 {
     font-size: 48px;
     margin: auto;
     vertical-align: middle;
+    color: #333333;
 }
 
 .header-left {
